@@ -59,7 +59,7 @@ application {
 }
 
 shadowJar {
-    archiveBaseName.set('grableHelloWorld')
+    archiveBaseName.set('gradleHelloWorld')
     archiveVersion.set('0.1')
     archiveClassifier.set('')
     manifest {
