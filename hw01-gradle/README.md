@@ -10,7 +10,7 @@
     <groupId>com.google.guava</groupId>
     <artifactId>guava</artifactId>
 ```
-7) В проекте сделайте класс HelloOtus
+7) В проекте сделайте класс HelloGuava
 8) В этом классе сделайте вызов какого-нибудь метода из guava
 9) Создайте "толстый-jar"
 10) Убедитесь, что "толстый-jar" запускается.
